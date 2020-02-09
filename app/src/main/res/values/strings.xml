@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">local-notification</string>
+
+    <string name="content">
+        Security is an important part of development. Users expect you to protect their data from unintended prying eyes. Android has mechanisms in place by default for controlling who can view the information that your app collects on devices, but almost every app communicates over a network. You can keep your users’ information private by ensuring that your app is securing network data in transit.
+    </string>
+</resources>
